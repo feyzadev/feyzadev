@@ -5,7 +5,7 @@ Bilişim Sistemleri öğrencisiyim. Yazılım geliştirme, veri analizi ve iş a
 - 🔭 Şu anda farklı alanları deneyerek kariyerime yön veriyorum.
 - 🌱 Öğrenmeye devam ediyorum: **C#, .NET, Python, SQL**
 - 👯 Açık kaynak projelere katkıda bulunmak istiyorum.
-- 📫 Bana ulaşmak için: [E-posta adresin]
+- 📫 Bana ulaşmak için: [sobucovafeyza@gmail.com]
 
 ---
 
@@ -16,7 +16,7 @@ I'm an Information Systems student exploring and improving myself in software de
 - 🔭 Currently exploring different fields to shape my career.
 - 🌱 Continuously learning: **C#, .NET, Python, SQL**
 - 👯 Looking to contribute to open-source projects.
-- 📫 How to reach me: [E-posta adresin]
+- 📫 How to reach me: [sobucovafeyza@gmail.com]
 
 ---
 
